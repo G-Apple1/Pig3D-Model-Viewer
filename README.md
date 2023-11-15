@@ -5,4 +5,4 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
 
 
 # Demo
-[![Alt Text](url_to_gif)](https://github.com/G-Apple1/Pig3D-Model-Viewer/blob/main/pig3d.gif)https://github.com/G-Apple1/Pig3D-Model-Viewer/blob/main/pig3d.gif)
+<img src="[url_to_gif](https://github.com/G-Apple1/Pig3D-Model-Viewer/blob/main/pig3d.gif)" width="500" height="300">
