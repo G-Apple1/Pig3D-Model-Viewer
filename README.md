@@ -15,12 +15,11 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
    ```
 
 2. Extract the data.zip into the "Pig3D-Model-Viewer/data" directory
+   <br></br>
+   <img src="https://github.com/G-Apple1/Pig3D-Model-Viewer/assets/62458945/fcd44aa7-e05c-47ec-8bde-fc4d40a5a75c" alt="Alt Text" width="350" height="175">
 
-<img src="https://github.com/G-Apple1/Pig3D-Model-Viewer/assets/62458945/b0776a3f-3bdc-4893-9fd1-0c3ffd6c28d8" width="400" height="200">
 
-
-
-3. Run the python3 script
+4. Run the python3 script
    ```
    python smal_viewer.py
    ```
