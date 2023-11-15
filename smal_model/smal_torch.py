@@ -37,7 +37,7 @@ class SMAL(nn.Module):
             dd = u.load()
 
         # with open(r"E:\DL\SMALViewer\data\zebra_walking_symmetric_pose_prior_with_cov_35parts.pkl", 'rb') as f:
-        with open(r"E:\DL\SMALViewer\data\walking_toy_symmetric_pose_prior_with_cov_35parts.pkl", 'rb') as f:
+        with open(r"./data/walking_toy_symmetric_pose_prior_with_cov_35parts.pkl", 'rb') as f:
             u = pkl._Unpickler(f)
             u.encoding = 'latin1'
             dd_pose = u.load()
@@ -138,7 +138,7 @@ class SMAL(nn.Module):
         import numpy as np
         from .geometry_utils import rot6d_to_rotmat, rotmat_to_rot6d
         from svm_test.cal_head import rot6D_to_degree, rotation_matrix_to_axis_angle,rotation_matrix_to_angles
-        with open(r"E:\DL\SMALViewer\data\pose.json", 'r') as f:
+        with open(r"./data/pose.json", 'r') as f:
             pose_prior = json.load(f)
             pose_prior = np.asarray(pose_prior)
             # pose_prior = rot6d_to_rotmat(torch.tensor(pose_prior))
