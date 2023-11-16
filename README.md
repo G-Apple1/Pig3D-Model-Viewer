@@ -21,7 +21,7 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
     ```
    To install the remaining dependencies run the following command:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 ## Usage
 1. Clone the repository and enter directory
