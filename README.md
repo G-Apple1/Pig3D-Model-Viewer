@@ -8,6 +8,22 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
 <img src="pig3d.gif" width="955" height="480">
 
 # How to use
+## Environment
+* Python>=3.7
+
+    We recommend you to use Anaconda to create a conda environment:
+    ```bash
+    conda create -n pig3d python=3.7
+    ```
+    Then, activate the environment:
+    ```bash
+    conda activate pig3d
+    ```
+   To install the remaining dependencies run the following command:
+    ```bash
+    pip install -r requirements.txt
+    ```
+## Usage
 1. Clone the repository and enter directory
    ```
    git clone https://github.com/G-Apple1/Pig3D-Model-Viewer.git
@@ -18,8 +34,7 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
    <br></br>
    <img src="https://github.com/G-Apple1/Pig3D-Model-Viewer/assets/62458945/fcd44aa7-e05c-47ec-8bde-fc4d40a5a75c" alt="Alt Text" width="350" height="175">
 
-
-4. Run the python3 script
+3. Run the python3 script
    ```
    python smal_viewer.py
    ```
