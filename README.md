@@ -40,5 +40,5 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
    ```
 ## Recover the 3d of pig from single-view images
 <div align="center">
-    <img src="pigviewer1.png" width="270" height="405"><img src="pigviewer2.png" width="270" height="405"><img src="pigviewer3.png" width="270" height="405">
+    <img src="pigviewer1.png" width="300" height="450"><img src="pigviewer2.png" width="300" height="450"><img src="pigviewer3.png" width="300" height="450">
 </div>
