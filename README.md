@@ -38,3 +38,7 @@ This code provides a basic framework for a 3D model viewer for a pig model(Pig3D
    ```
    python smal_viewer.py
    ```
+## Recover the 3d of pig from single-view images
+<img src="pigviewer1.png" width="600" height="900">
+<img src="pigviewer2.png" width="600" height="900">
+<img src="pigviewer3.png" width="600" height="900">
